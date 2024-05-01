@@ -415,8 +415,9 @@ if __name__ == '__main__':
 				print (next(res.results).text)
 				speak (next(res.results).text)
 			except StopIteration:
-				print ("No results")
+				print ("Not things")
 
 		# elif "" in query:
 			# Command go here
 			# For adding more commands
+			# sakdasjdkjjk
